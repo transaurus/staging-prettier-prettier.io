@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[492],{5443(e){e.exports=JSON.parse('{"metadata":{"permalink":"/blog/page/4","page":4,"postsPerPage":10,"totalPages":5,"totalCount":43,"previousPage":"/blog/page/3","nextPage":"/blog/page/5","blogDescription":"Read blog posts about Prettier from the team","blogTitle":"Prettier blog"}}')}}]);

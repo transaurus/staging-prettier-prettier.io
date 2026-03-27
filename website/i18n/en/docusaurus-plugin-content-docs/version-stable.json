@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "stable",
+    "description": "The label for version stable"
+  },
+  "sidebar.docs.category.About": {
+    "message": "About",
+    "description": "The label for category 'About' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Usage": {
+    "message": "Usage",
+    "description": "The label for category 'Usage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Configuring Prettier": {
+    "message": "Configuring Prettier",
+    "description": "The label for category 'Configuring Prettier' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Editors": {
+    "message": "Editors",
+    "description": "The label for category 'Editors' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Misc": {
+    "message": "Misc",
+    "description": "The label for category 'Misc' in sidebar 'docs'"
+  }
+}
