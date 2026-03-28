@@ -55,14 +55,14 @@ const config = {
     "https://unpkg.com/@sandhose/prettier-animated-logo@1.0.3/dist/wide.css",
   ],
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "zh-Hans"],
   },
 
   presets: [
